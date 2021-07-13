@@ -1,5 +1,7 @@
-![joaosousa-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosousa-dev&show_icons=true&theme=radical)
+
 # Welcome to my profile
+
+![joaosousa-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosousa-dev&show_icons=true&theme=radical)
 
 ## Hi, I'm João! :D
 
