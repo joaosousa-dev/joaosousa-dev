@@ -3,6 +3,7 @@
 <h3 align="center"><em>"90% of success is based on insisting"</em></h3>
 
 - 🌱 I’m currently learning **Analysis and systems development.**
+- 👨‍💻 I'm a **tech lover.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
