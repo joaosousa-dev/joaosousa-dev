@@ -18,7 +18,7 @@
 
  -->
 <h1 align="center">Hi 👋, I'm João</h1>
-<h3 align="center">"90% of success is based on insisting"</h3>
+<h3 align="center" font-style="italic">"90% of success is based on insisting"</h3>
 
 - 🌱 I’m currently learning **Analysis and systems development.**
 
