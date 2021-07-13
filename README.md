@@ -10,8 +10,8 @@
 
 
 ### About me
-👨‍💻 I'm a {backend, frontend and mobile} developer and tech lover
-📚 I'm currently learning analysis and systems development
+👨‍💻 I'm a {backend, frontend and mobile} developer and tech lover.
+📚 I'm currently learning analysis and systems development.
 
 
 
