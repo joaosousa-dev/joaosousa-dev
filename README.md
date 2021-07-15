@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning **Analysis and systems development.**
 - 👨‍💻 I'm a **tech lover.**
-- 👾 I'm a reserve officer of the Brazilian army
+- 🔥 **FullStack Developer**
+- 👾 I'm a reserve **officer** of the Brazilian army
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
