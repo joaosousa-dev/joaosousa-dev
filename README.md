@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm João</h1>
 <h3 align="center"><em>"90% of success is based on insisting"</em></h3>
 
-- 🌱 I’m currently learning **Analysis and systems development.**
+- 🌱 I’m currently **Software Developer Mid**
 - 👨‍💻 I'm a **tech lover.**
 - 🔥 **BackEnd Dev**
 - 👾 I'm a reserve **officer** of the Brazilian army
